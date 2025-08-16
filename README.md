@@ -18,8 +18,8 @@ This project demonstrates an **offline-first architecture**, syncing data betwee
 ---
 
 ## 📹 Demo
-👉 [Watch Demo Video](https://your-demo-link.com)  
-👉 [Download APK](https://your-apk-link.com)  
+👉 [Watch Demo Video](https://gofile.io/d/sFonsd)  
+👉 [Download APK](https://github.com/Sovan22/MiniCRMApp/releases/download/v1.0/app-debug.apk)  
 
 ---
 
