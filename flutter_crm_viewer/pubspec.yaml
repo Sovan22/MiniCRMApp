@@ -1,0 +1,35 @@
+name: flutter_crm_viewer
+description: A Flutter app to view customer data from Firebase
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^4.0.0
+  firebase_auth: ^6.0.1
+  cloud_firestore: ^6.0.0
+  intl: ^0.20.2
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  
+  # Uncomment if you have assets
+  # assets:
+  #   - assets/images/
+  
+  # Uncomment if you have custom fonts
+  # fonts:
+  #   - family: CustomFont
+  #     fonts:
+  #       - asset: assets/fonts/CustomFont-Regular.ttf

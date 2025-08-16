@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "863913316411",
+    "project_id": "tokei-d8ffc",
+    "storage_bucket": "tokei-d8ffc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863913316411:android:38a5e7f71e255be3148c1e",
+        "android_client_info": {
+          "package_name": "com.demomiru.minicrm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXcUwea54k_HoSRpLVUSYIIXOU-2agnbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863913316411:android:ba3c550ee52fe2ef148c1e",
+        "android_client_info": {
+          "package_name": "com.demomiru.scrapingtestfortokei"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXcUwea54k_HoSRpLVUSYIIXOU-2agnbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
